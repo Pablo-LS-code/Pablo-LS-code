@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola! I'm Pablo López 👋
 
-<!--
-**Pablo-LS-code/Pablo-LS-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🔗 Secondary account of [Pablo-LS](https://github.com/Pablo-LS) — dedicated to projects, side hustles & experiments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About this account
+
+This is my **secondary GitHub profile**, focused on web development, apps, and coding projects.
+
+My main profile → **[github.com/Pablo-LS](https://github.com/Pablo-LS)**
+
+---
+
+## About Me
+
+- ⚡ Electrical Designer
+- 🤖 Specialized in **Artificial Intelligence & Big Data**
+- 🛠️ Building projects as a hobby
+- 🌍 Based in **Pamplona, Navarra, Spain**
+
+---
+
+## Connect
+
+- 🔗 LinkedIn: [pablo-lopez-profile](https://www.linkedin.com/in/pablo-lopez-profile)
+- 👤 Main GitHub: [Pablo-LS](https://github.com/Pablo-LS)
