@@ -1,6 +1,6 @@
 # Hola! I'm Pablo López 👋
 
-> 🔗 Secondary account of [Pablo-LS](https://github.com/Pablo-LS) — dedicated to projects, side hustles & experiments.
+> 🔗 Secondary account of [Pablo-LS](https://github.com/Pablo-LS) — dedicated to projects & experiments.
 
 ---
 
@@ -14,10 +14,8 @@ My main profile → **[github.com/Pablo-LS](https://github.com/Pablo-LS)**
 
 ## About Me
 
-- ⚡ Electrical Designer
 - 🤖 Specialized in **Artificial Intelligence & Big Data**
 - 🛠️ Building projects as a hobby
-- 🌍 Based in **Pamplona, Navarra, Spain**
 
 ---
 
